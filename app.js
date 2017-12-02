@@ -1,6 +1,5 @@
 const cheerio = require('cheerio');
 const request = require('request');
-const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const url = `https://www.beeradvocate.com/lists/top/`;
@@ -159,11 +158,15 @@ function getBeers(url) {
         let brewery = thisBeer.children().eq(0).text();
         let style = thisBeer.children().eq(2).text();
         let abv = extractABV(thisBeer.text());
+        let rating = thisBeer.parent().next().text();
+        let reviews = thisBeer.parent().next().next().text();
         beers.table.push({
           name: name,
           style: style,
           abv: abv,
-          brewery: brewery
+          brewery: brewery,
+          rating: rating,
+          reviews: reviews
         });
         writeOutput(beers);
       });
