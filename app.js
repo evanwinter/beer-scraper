@@ -1,67 +1,57 @@
 const cheerio = require('cheerio');
 const request = require('request');
 const jsonfile = require('jsonfile');
-var fs = require('fs');
+const fs = require('fs');
 
 const url = `https://www.beeradvocate.com/lists/top/`;
-const beers = {
-  table: []
-};
-var today = new Date();
-var dd = today.getDate();
-var mm = today.getMonth()+1; //January is 0!
-if(dd<10) {
-    dd = '0'+dd
-} 
-if(mm<10) {
-    mm = '0'+mm
-}
-today = mm+'-'+dd;
+const beers = { table: [] };
 
-request(url, function (error, response, html) {
-  if (!error && response.statusCode == 200) {
-    let $ = cheerio.load(html);
-    $('#extendedInfo').each(function() {
-      let thisBeer = $(this);
-      let name = thisBeer.prev().text();
-      let brewery = thisBeer.children().eq(0).text();
-      let style = thisBeer.children().eq(2).text();
-      let abv = getSecondPart(thisBeer.text());
-
-      // console.log("Name: " + name);
-      // console.log("Style: " + style);
-      // console.log("ABV: " + abv);
-      // console.log("Brewed by: " + brewery);
-      // console.log('');
-
-      beers.table.push({
-        name: name,
-        style: style,
-        abv: abv,
-        brewery: brewery
-      });
-
-      writeOutput(beers);
-
-    });
+/*
+  Returns today's date in the format "MM-DD".
+*/
+function getTodaysDate() {
+  let today = new Date();
+  let dd = today.getDate();
+  let mm = today.getMonth() + 1;
+  if (dd < 10) {
+      dd = '0' + dd
+  } 
+  if (mm < 10) {
+      mm = '0' + mm
   }
+  return today = mm + '-' + dd;
+}
 
-  // getTopTenBeers(beers);
-  // getTopTenBreweries(beers);
+/*
+  Writes output to JSON.
+*/
+function writeOutput(beers) {
+  const json = JSON.stringify(beers, null, 4);
+  const today = getTodaysDate();
+  const outputFile = `output/beers_${today}.json`;
+  fs.writeFile(outputFile, json, 'utf8', function(err) {
+    if (err) {
+      console.log(err);
+    }
+  });
+}
 
-  getMostFrequentBrewery(beers);
-  getMostFrequentStyle(beers);
+/*
+  Extracts ABV from HTML element.
+*/
+function extractABV(str) {
+    let numStyles = (str.split('/ ').length);
+    let abv = str.split('/ ')[numStyles-1];
+    return abv
+}
 
-});
-
-// function analyzeBeers(beers) {
-//   const beerList = beers['table'];
-//   for (let i = 0; i < beerList.length; i++) {
-//     console.log(beerList[i]);
-//   }
-// }
-
+/*
+  Prints name of brewery with most occurances in top 250.
+*/
 function getMostFrequentBrewery(beers) {
+
+  console.log("MOST POPULAR BREWERY\n---------------");
+
   const beerList = beers['table'];
   if(beerList.length == 0)
       return null;
@@ -82,10 +72,18 @@ function getMostFrequentBrewery(beers) {
       }
   }
   console.log("The most popular brewery right now is " + maxEl + " with " + maxCount + " appearances on BeerAdvocate's top 250 list.");
+  console.log('');
+
   return maxEl;
 }
 
+/*
+  Prints name of style with most occurances in top 250.
+*/
 function getMostFrequentStyle(beers) {
+
+  console.log("MOST POPULAR STYLE\n---------------");
+
   const beerList = beers['table'];
   if(beerList.length == 0)
       return null;
@@ -106,38 +104,77 @@ function getMostFrequentStyle(beers) {
       }
   }
   console.log("The most popular style right now is " + maxEl + " with " + maxCount + " appearances on BeerAdvocate's top 250 list.");
+  console.log('');
+
   return maxEl;
 }
 
-function getSecondPart(str) {
-    let numStyles = (str.split('/ ').length);
-    let abv = str.split('/ ')[numStyles-1];
-    return abv
-}
-
+/*
+  Prints names of the ten highest-ranked beers.
+*/
 function getTopTenBeers(beers) {
+  
+  console.log("TOP TEN BEERS\n---------------")
+
   const beerList = beers['table'];
   for (let i = 0; i < 10; i++) {
-    console.log(beerList[i].name);
+    console.log(beerList[i]);
   }
+
+  console.log('');
 }
 
+/*
+  Prints names of the breweries of the ten highest-ranked beers.
+*/
 function getTopTenBreweries(beers) {
+  
+  console.log("TOP TEN BREWERIES\n---------------");
+
   const beerList = beers['table'];
   for (let i = 0; i < 10; i++) {
     console.log(beerList[i].brewery);
   }
+
+  console.log('');
 }
 
-function getHighestABV(beers) {
+/*
+  Prints names of the ten beers with the highest ABV.
+*/
+function getTopTenHighestABV(beers) {
   // To do
 }
 
-function writeOutput(beers) {
-  const json = JSON.stringify(beers, null, 4);
-  fs.writeFile(`output/beers_${today}.json`, json, 'utf8', function(err) {
-    if (err) {
-      console.log(err);
+/*
+  Main request function.
+*/
+function getBeers(url) {
+  request(url, function (error, response, html) {
+    if (!error && response.statusCode == 200) {
+      let $ = cheerio.load(html);
+      $('#extendedInfo').each(function() {
+        let thisBeer = $(this);
+        let name = thisBeer.prev().text();
+        let brewery = thisBeer.children().eq(0).text();
+        let style = thisBeer.children().eq(2).text();
+        let abv = extractABV(thisBeer.text());
+        beers.table.push({
+          name: name,
+          style: style,
+          abv: abv,
+          brewery: brewery
+        });
+        writeOutput(beers);
+      });
+
+      getTopTenBeers(beers);
+      getTopTenBreweries(beers);
+      getMostFrequentBrewery(beers);
+      getMostFrequentStyle(beers);
+      
     }
   });
 }
+
+getBeers(url);
