@@ -118,7 +118,7 @@ function getTopTenBeers(beers) {
 
   const beerList = beers['table'];
   for (let i = 0; i < 10; i++) {
-    console.log(beerList[i]);
+    console.log(beerList[i].name);
   }
 
   console.log('');
@@ -168,11 +168,13 @@ function getBeers(url) {
         writeOutput(beers);
       });
 
+      console.log('');
+
       getTopTenBeers(beers);
       getTopTenBreweries(beers);
       getMostFrequentBrewery(beers);
       getMostFrequentStyle(beers);
-      
+
     }
   });
 }
