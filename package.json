@@ -18,6 +18,7 @@
   "homepage": "https://github.com/evanwinter/beers#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "osa-imessage": "^2.3.0",
     "request": "^2.83.0"
   }
 }

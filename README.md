@@ -1,4 +1,4 @@
-# BeerAdvocate Top 250
+
 
 Gets information about BA's top 250 beers.
 
