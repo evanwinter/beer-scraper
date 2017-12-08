@@ -1,7 +1,6 @@
 const cheerio = require('cheerio');
 const request = require('request');
 const fs = require('fs');
-const imessage = require('osa-imessage');
 
 const url = `https://www.beeradvocate.com/lists/top/`;
 const apiUrl = ``;
@@ -147,6 +146,20 @@ function getTopTenHighestABV(beers) {
   // To do
 }
 
+function getRankChanges(beers) {
+  // TODO: Track daily changes in rankings
+
+  // Get today's rankings
+  
+  // Get yesterday's rankings (or next-newest)
+  
+  // Compare the two files (JSON?)
+
+  // If 
+
+
+}
+
 /*
   Main request function.
 */
@@ -183,9 +196,5 @@ function getBeers(url) {
     }
   });
 }
-
-imessage.handleForName('Evan Winter').then(handle => {
-    imessage.send(handle, 'Hello')
-});
 
 getBeers(url);

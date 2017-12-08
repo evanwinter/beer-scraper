@@ -2,6 +2,10 @@
 
 Gets information about BA's top 250 beers.
 
+`npm install`
+
+`node app.js`
+
 ```
 {
     "table": [

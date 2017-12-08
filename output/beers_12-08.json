@@ -1,0 +1,2004 @@
+{
+    "table": [
+        {
+            "name": "Kentucky Brunch Brand Stout",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.00% ABV",
+            "brewery": "Toppling Goliath Brewing Company",
+            "rating": "4.84",
+            "reviews": "660"
+        },
+        {
+            "name": "Good Morning",
+            "style": "American Double / Imperial Stout",
+            "abv": "8.40% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.79",
+            "reviews": "1,030"
+        },
+        {
+            "name": "Heady Topper",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "The Alchemist Brewery and Visitors Center",
+            "rating": "4.72",
+            "reviews": "13,707"
+        },
+        {
+            "name": "Hunahpu's Imperial Stout - Double Barrel Aged",
+            "style": "American Double / Imperial Stout",
+            "abv": "11.00% ABV",
+            "brewery": "Cigar City Brewing",
+            "rating": "4.74",
+            "reviews": "1,515"
+        },
+        {
+            "name": "Barrel-Aged Abraxas",
+            "style": "American Double / Imperial Stout",
+            "abv": "11.00% ABV",
+            "brewery": "Perennial Artisan Ales",
+            "rating": "4.74",
+            "reviews": "1,368"
+        },
+        {
+            "name": "Marshmallow Handjee (Bourbon Barrel Aged Vanilla Bean Dark Lord)",
+            "style": "Russian Imperial Stout",
+            "abv": "15.00% ABV",
+            "brewery": "3 Floyds Brewing Co.",
+            "rating": "4.73",
+            "reviews": "1,530"
+        },
+        {
+            "name": "King Julius",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.30% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.75",
+            "reviews": "785"
+        },
+        {
+            "name": "Pliny The Younger",
+            "style": "American Double / Imperial IPA",
+            "abv": "10.25% ABV",
+            "brewery": "Russian River Brewing Company",
+            "rating": "4.7",
+            "reviews": "3,104"
+        },
+        {
+            "name": "Mornin' Delight",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.00% ABV",
+            "brewery": "Toppling Goliath Brewing Company",
+            "rating": "4.71",
+            "reviews": "1,276"
+        },
+        {
+            "name": "Bourbon County Brand Coffee Stout",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.90% ABV",
+            "brewery": "Goose Island Beer Co.",
+            "rating": "4.68",
+            "reviews": "7,140"
+        },
+        {
+            "name": "Very Hazy",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.60% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.73",
+            "reviews": "681"
+        },
+        {
+            "name": "Founders CBS (Canadian Breakfast Stout)",
+            "style": "American Double / Imperial Stout",
+            "abv": "11.70% ABV",
+            "brewery": "Founders Brewing Company",
+            "rating": "4.68",
+            "reviews": "4,562"
+        },
+        {
+            "name": "Fundamental Observation",
+            "style": "American Double / Imperial Stout",
+            "abv": "14.30% ABV",
+            "brewery": "Bottle Logic Brewing",
+            "rating": "4.71",
+            "reviews": "974"
+        },
+        {
+            "name": "Double Sunshine IPA",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Lawson's Finest Liquids",
+            "rating": "4.67",
+            "reviews": "2,154"
+        },
+        {
+            "name": "Julius",
+            "style": "American IPA",
+            "abv": "6.80% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.66",
+            "reviews": "3,865"
+        },
+        {
+            "name": "Pliny The Elder",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Russian River Brewing Company",
+            "rating": "4.65",
+            "reviews": "14,625"
+        },
+        {
+            "name": "King JJJuliusss",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.40% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.74",
+            "reviews": "397"
+        },
+        {
+            "name": "Juice Machine",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.20% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.7",
+            "reviews": "616"
+        },
+        {
+            "name": "Cantillon Fou' Foune",
+            "style": "Lambic - Fruit",
+            "abv": "5.00% ABV",
+            "brewery": "Brasserie Cantillon",
+            "rating": "4.65",
+            "reviews": "2,950"
+        },
+        {
+            "name": "Assassin Imperial Stout",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.00% ABV",
+            "brewery": "Toppling Goliath Brewing Company",
+            "rating": "4.66",
+            "reviews": "1,208"
+        },
+        {
+            "name": "Very Green",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.60% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.68",
+            "reviews": "720"
+        },
+        {
+            "name": "Dinner",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.20% ABV",
+            "brewery": "Maine Beer Company",
+            "rating": "4.64",
+            "reviews": "2,101"
+        },
+        {
+            "name": "Morning Wood",
+            "style": "American Porter",
+            "abv": "12.00% ABV",
+            "brewery": "Funky Buddha Brewery",
+            "rating": "4.66",
+            "reviews": "939"
+        },
+        {
+            "name": "Abner",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.20% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.63",
+            "reviews": "2,680"
+        },
+        {
+            "name": "AleSmith Speedway Stout - Vietnamese Coffee (Bourbon Barrel Aged)",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.00% ABV",
+            "brewery": "AleSmith Brewing Company",
+            "rating": "4.66",
+            "reviews": "802"
+        },
+        {
+            "name": "King Sue",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Toppling Goliath Brewing Company",
+            "rating": "4.63",
+            "reviews": "2,013"
+        },
+        {
+            "name": "Founders KBS (Kentucky Breakfast Stout)",
+            "style": "American Double / Imperial Stout",
+            "abv": "11.80% ABV",
+            "brewery": "Founders Brewing Company",
+            "rating": "4.61",
+            "reviews": "12,814"
+        },
+        {
+            "name": "Doubleganger",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.20% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.69",
+            "reviews": "441"
+        },
+        {
+            "name": "Parabola",
+            "style": "Russian Imperial Stout",
+            "abv": "14.00% ABV",
+            "brewery": "Firestone Walker Brewing Co.",
+            "rating": "4.61",
+            "reviews": "6,594"
+        },
+        {
+            "name": "Duck Duck Gooze",
+            "style": "Gueuze",
+            "abv": "7.00% ABV",
+            "brewery": "The Lost Abbey",
+            "rating": "4.62",
+            "reviews": "1,811"
+        },
+        {
+            "name": "Bourbon County Brand Stout",
+            "style": "American Double / Imperial Stout",
+            "abv": "14.10% ABV",
+            "brewery": "Goose Island Beer Co.",
+            "rating": "4.6",
+            "reviews": "12,364"
+        },
+        {
+            "name": "Trappist Westvleteren 12 (XII)",
+            "style": "Quadrupel (Quad)",
+            "abv": "10.20% ABV",
+            "brewery": "Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)",
+            "rating": "4.6",
+            "reviews": "6,428"
+        },
+        {
+            "name": "Triple Sunshine IPA",
+            "style": "American Double / Imperial IPA",
+            "abv": "10.50% ABV",
+            "brewery": "Lawson's Finest Liquids",
+            "rating": "4.65",
+            "reviews": "643"
+        },
+        {
+            "name": "Double Citra",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.61",
+            "reviews": "1,800"
+        },
+        {
+            "name": "Cantillon Lou Pepe - Kriek",
+            "style": "Lambic - Fruit",
+            "abv": "5.00% ABV",
+            "brewery": "Brasserie Cantillon",
+            "rating": "4.61",
+            "reviews": "1,751"
+        },
+        {
+            "name": "Zombie Dust",
+            "style": "American Pale Ale (APA)",
+            "abv": "6.20% ABV",
+            "brewery": "3 Floyds Brewing Co.",
+            "rating": "4.59",
+            "reviews": "10,235"
+        },
+        {
+            "name": "Focal Banger India Pale Ale",
+            "style": "American IPA",
+            "abv": "7.00% ABV",
+            "brewery": "The Alchemist Brewery and Visitors Center",
+            "rating": "4.59",
+            "reviews": "3,374"
+        },
+        {
+            "name": "Fuzzy",
+            "style": "American Wild Ale",
+            "abv": "8.00% ABV",
+            "brewery": "Side Project Brewing",
+            "rating": "4.62",
+            "reviews": "812"
+        },
+        {
+            "name": "Green",
+            "style": "American IPA",
+            "abv": "7.60% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.59",
+            "reviews": "2,550"
+        },
+        {
+            "name": "Double Galaxy",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.6",
+            "reviews": "1,404"
+        },
+        {
+            "name": "Doppelganger",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.6",
+            "reviews": "1,335"
+        },
+        {
+            "name": "Sip Of Sunshine IPA",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Lawson's Finest Liquids",
+            "rating": "4.58",
+            "reviews": "5,027"
+        },
+        {
+            "name": "JJJuliusss",
+            "style": "American IPA",
+            "abv": "6.80% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.67",
+            "reviews": "359"
+        },
+        {
+            "name": "Hunahpu's Imperial Stout",
+            "style": "American Double / Imperial Stout",
+            "abv": "11.00% ABV",
+            "brewery": "Cigar City Brewing",
+            "rating": "4.58",
+            "reviews": "4,194"
+        },
+        {
+            "name": "Atrial Rubicite",
+            "style": "American Wild Ale",
+            "abv": "5.80% ABV",
+            "brewery": "Jester King Brewery",
+            "rating": "4.59",
+            "reviews": "1,776"
+        },
+        {
+            "name": "Double Dry Hopped Fort Point Pale Ale",
+            "style": "American Pale Ale (APA)",
+            "abv": "6.60% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.59",
+            "reviews": "1,455"
+        },
+        {
+            "name": "Haze",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.20% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.58",
+            "reviews": "2,256"
+        },
+        {
+            "name": "Drie Fonteinen Zenne Y Frontera",
+            "style": "Lambic - Unblended",
+            "abv": "7.00% ABV",
+            "brewery": "Brouwerij 3 Fonteinen",
+            "rating": "4.73",
+            "reviews": "209"
+        },
+        {
+            "name": "Double Dry Hopped Congress Street",
+            "style": "American IPA",
+            "abv": "7.20% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.59",
+            "reviews": "1,267"
+        },
+        {
+            "name": "Society & Solitude #4",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.59",
+            "reviews": "1,189"
+        },
+        {
+            "name": "Double Dry Hop PseudoSue (Citra)",
+            "style": "American Pale Ale (APA)",
+            "abv": "6.20% ABV",
+            "brewery": "Toppling Goliath Brewing Company",
+            "rating": "4.6",
+            "reviews": "789"
+        },
+        {
+            "name": "Supplication",
+            "style": "American Wild Ale",
+            "abv": "7.00% ABV",
+            "brewery": "Russian River Brewing Company",
+            "rating": "4.56",
+            "reviews": "6,398"
+        },
+        {
+            "name": "Cantillon Lou Pepe - Framboise",
+            "style": "Lambic - Fruit",
+            "abv": "5.00% ABV",
+            "brewery": "Brasserie Cantillon",
+            "rating": "4.58",
+            "reviews": "1,320"
+        },
+        {
+            "name": "Swish",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Bissell Brothers Brewing Co.",
+            "rating": "4.58",
+            "reviews": "1,293"
+        },
+        {
+            "name": "Westly",
+            "style": "American Wild Ale",
+            "abv": "8.50% ABV",
+            "brewery": "Sante Adairius Rustic Ales",
+            "rating": "4.68",
+            "reviews": "265"
+        },
+        {
+            "name": "Citra",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Kern River Brewing Company",
+            "rating": "4.57",
+            "reviews": "1,760"
+        },
+        {
+            "name": "Headroom",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.61",
+            "reviews": "566"
+        },
+        {
+            "name": "Grande Negro Voodoo Papi - Bourbon Barrel Aged",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.50% ABV",
+            "brewery": "Voodoo Brewery",
+            "rating": "4.67",
+            "reviews": "282"
+        },
+        {
+            "name": "Cable Car",
+            "style": "American Wild Ale",
+            "abv": "7.00% ABV",
+            "brewery": "The Lost Abbey",
+            "rating": "4.58",
+            "reviews": "1,013"
+        },
+        {
+            "name": "Aaron",
+            "style": "English Barleywine",
+            "abv": "Hill Farmstead BreweryEnglish Barleywine",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.62",
+            "reviews": "446"
+        },
+        {
+            "name": "Alter Ego",
+            "style": "American IPA",
+            "abv": "6.80% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.56",
+            "reviews": "2,038"
+        },
+        {
+            "name": "Galaxy Dry Hopped Fort Point Pale Ale",
+            "style": "American Pale Ale (APA)",
+            "abv": "6.60% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.56",
+            "reviews": "1,609"
+        },
+        {
+            "name": "Beatification",
+            "style": "American Wild Ale",
+            "abv": "6.00% ABV",
+            "brewery": "Russian River Brewing Company",
+            "rating": "4.55",
+            "reviews": "2,691"
+        },
+        {
+            "name": "West Ashley",
+            "style": "American Wild Ale",
+            "abv": "7.30% ABV",
+            "brewery": "Sante Adairius Rustic Ales",
+            "rating": "4.57",
+            "reviews": "1,031"
+        },
+        {
+            "name": "Nectarine Premiere",
+            "style": "Saison / Farmhouse Ale",
+            "abv": "7.10% ABV",
+            "brewery": "de Garde Brewing",
+            "rating": "4.65",
+            "reviews": "295"
+        },
+        {
+            "name": "Bell's Black Note Stout",
+            "style": "American Double / Imperial Stout",
+            "abv": "11.20% ABV",
+            "brewery": "Bell's Brewery, Inc.",
+            "rating": "4.54",
+            "reviews": "4,537"
+        },
+        {
+            "name": "Kuhnhenn Bourbon Barrel Fourth Dementia",
+            "style": "Old Ale",
+            "abv": "13.50% ABV",
+            "brewery": "Kuhnhenn Brewing Company",
+            "rating": "4.55",
+            "reviews": "1,923"
+        },
+        {
+            "name": "Black Tuesday",
+            "style": "American Double / Imperial Stout",
+            "abv": "19.50% ABV",
+            "brewery": "The Bruery",
+            "rating": "4.54",
+            "reviews": "3,944"
+        },
+        {
+            "name": "Bourbon Barrel Aged Abominable: Coffee And Cinnamon",
+            "style": "American Strong Ale",
+            "abv": "14.00% ABV",
+            "brewery": "Fremont Brewing Company",
+            "rating": "4.57",
+            "reviews": "823"
+        },
+        {
+            "name": "In Perpetuity",
+            "style": "American IPA",
+            "abv": "6.70% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.58",
+            "reviews": "655"
+        },
+        {
+            "name": "Ephraim",
+            "style": "American Double / Imperial IPA",
+            "abv": "10.00% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.56",
+            "reviews": "1,040"
+        },
+        {
+            "name": "Chocolate Rain",
+            "style": "American Double / Imperial Stout",
+            "abv": "19.60% ABV",
+            "brewery": "The Bruery",
+            "rating": "4.54",
+            "reviews": "2,719"
+        },
+        {
+            "name": "Society & Solitude #5",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.10% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.55",
+            "reviews": "1,452"
+        },
+        {
+            "name": "Drie Fonteinen Oude Geuze Vintage",
+            "style": "Gueuze",
+            "abv": "6.00% ABV",
+            "brewery": "Brouwerij 3 Fonteinen",
+            "rating": "4.57",
+            "reviews": "763"
+        },
+        {
+            "name": "Cantillon Saint Lamvinus",
+            "style": "Lambic - Fruit",
+            "abv": "5.00% ABV",
+            "brewery": "Brasserie Cantillon",
+            "rating": "4.54",
+            "reviews": "2,119"
+        },
+        {
+            "name": "Saison Du Fermier",
+            "style": "Saison / Farmhouse Ale",
+            "abv": "7.00% ABV",
+            "brewery": "Side Project Brewing",
+            "rating": "4.57",
+            "reviews": "716"
+        },
+        {
+            "name": "PseudoSue",
+            "style": "American Pale Ale (APA)",
+            "abv": "6.20% ABV",
+            "brewery": "Toppling Goliath Brewing Company",
+            "rating": "4.53",
+            "reviews": "4,472"
+        },
+        {
+            "name": "Bourbon Barrel Aged Dark Lord Imperial Stout",
+            "style": "Russian Imperial Stout",
+            "abv": "15.00% ABV",
+            "brewery": "3 Floyds Brewing Co.",
+            "rating": "4.56",
+            "reviews": "869"
+        },
+        {
+            "name": "Dark Horse Bourbon Barrel Aged Plead The 5th",
+            "style": "Russian Imperial Stout",
+            "abv": "12.00% ABV",
+            "brewery": "Dark Horse Brewing Company",
+            "rating": "4.53",
+            "reviews": "3,192"
+        },
+        {
+            "name": "Beer Geek Vanilla Shake (Bourbon Edition)",
+            "style": "American Double / Imperial Stout",
+            "abv": "13.00% ABV",
+            "brewery": "Mikkeller ApS",
+            "rating": "4.59",
+            "reviews": "456"
+        },
+        {
+            "name": "Bourbon County Brand Barleywine Ale",
+            "style": "English Barleywine",
+            "abv": "14.40% ABV",
+            "brewery": "Goose Island Beer Co.",
+            "rating": "4.52",
+            "reviews": "5,258"
+        },
+        {
+            "name": "§ucaba",
+            "style": "English Barleywine",
+            "abv": "12.50% ABV",
+            "brewery": "Firestone Walker Brewing Co.",
+            "rating": "4.52",
+            "reviews": "5,062"
+        },
+        {
+            "name": "Double Shot",
+            "style": "American Stout",
+            "abv": "7.60% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.55",
+            "reviews": "893"
+        },
+        {
+            "name": "Ann",
+            "style": "Saison / Farmhouse Ale",
+            "abv": "6.50% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.6",
+            "reviews": "377"
+        },
+        {
+            "name": "Cutting Tiles (Mosaic)",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.50% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.54",
+            "reviews": "1,193"
+        },
+        {
+            "name": "Sunday Brunch",
+            "style": "American Porter",
+            "abv": "9.20% ABV",
+            "brewery": "Kane Brewing Company",
+            "rating": "4.56",
+            "reviews": "663"
+        },
+        {
+            "name": "Keene Idea",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.88% ABV",
+            "brewery": "Alpine Beer Company",
+            "rating": "4.58",
+            "reviews": "461"
+        },
+        {
+            "name": "Notorious Triple IPA",
+            "style": "American Double / Imperial IPA",
+            "abv": "12.00% ABV",
+            "brewery": "Boneyard Beer Company",
+            "rating": "4.55",
+            "reviews": "794"
+        },
+        {
+            "name": "Founders Breakfast Stout",
+            "style": "American Double / Imperial Stout",
+            "abv": "8.30% ABV",
+            "brewery": "Founders Brewing Company",
+            "rating": "4.51",
+            "reviews": "16,756"
+        },
+        {
+            "name": "Last Buffalo In The Park",
+            "style": "American Porter",
+            "abv": "11.50% ABV",
+            "brewery": "Funky Buddha Brewery",
+            "rating": "4.56",
+            "reviews": "609"
+        },
+        {
+            "name": "AleSmith Speedway Stout - Bourbon Barrel Aged",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.00% ABV",
+            "brewery": "AleSmith Brewing Company",
+            "rating": "4.52",
+            "reviews": "2,143"
+        },
+        {
+            "name": "Pirate Bomb!",
+            "style": "American Double / Imperial Stout",
+            "abv": "14.00% ABV",
+            "brewery": "Prairie Artisan Ales",
+            "rating": "4.52",
+            "reviews": "2,089"
+        },
+        {
+            "name": "Wide Awake It's Morning",
+            "style": "American Porter",
+            "abv": "10.00% ABV",
+            "brewery": "Funky Buddha Brewery",
+            "rating": "4.54",
+            "reviews": "848"
+        },
+        {
+            "name": "Grey Monday",
+            "style": "American Double / Imperial Stout",
+            "abv": "20.00% ABV",
+            "brewery": "The Bruery",
+            "rating": "4.52",
+            "reviews": "1,761"
+        },
+        {
+            "name": "The Rusty Nail",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.70% ABV",
+            "brewery": "Fremont Brewing Company",
+            "rating": "4.59",
+            "reviews": "365"
+        },
+        {
+            "name": "Mexican Brunch",
+            "style": "American Porter",
+            "abv": "9.20% ABV",
+            "brewery": "Kane Brewing Company",
+            "rating": "4.58",
+            "reviews": "409"
+        },
+        {
+            "name": "Parabajava",
+            "style": "Russian Imperial Stout",
+            "abv": "14.00% ABV",
+            "brewery": "Firestone Walker Brewing Co.",
+            "rating": "4.54",
+            "reviews": "776"
+        },
+        {
+            "name": "Trappistes Rochefort 10",
+            "style": "Quadrupel (Quad)",
+            "abv": "11.30% ABV",
+            "brewery": "Brasserie de Rochefort",
+            "rating": "4.5",
+            "reviews": "9,337"
+        },
+        {
+            "name": "Double Dry Hopped Double Mosaic Dream",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.50% ABV",
+            "brewery": "Other Half Brewing Co.",
+            "rating": "4.59",
+            "reviews": "339"
+        },
+        {
+            "name": "Bomb!",
+            "style": "American Double / Imperial Stout",
+            "abv": "13.00% ABV",
+            "brewery": "Prairie Artisan Ales",
+            "rating": "4.5",
+            "reviews": "6,058"
+        },
+        {
+            "name": "Abrasive Ale",
+            "style": "American Double / Imperial IPA",
+            "abv": "9.00% ABV",
+            "brewery": "Surly Brewing Company",
+            "rating": "4.5",
+            "reviews": "4,589"
+        },
+        {
+            "name": "Mosaic Dry Hopped Fort Point",
+            "style": "American Pale Ale (APA)",
+            "abv": "6.60% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.52",
+            "reviews": "1,130"
+        },
+        {
+            "name": "Pugachev Royale",
+            "style": "Russian Imperial Stout",
+            "abv": "14.80% ABV",
+            "brewery": "Hangar 24 Brewery",
+            "rating": "4.62",
+            "reviews": "248"
+        },
+        {
+            "name": "Miami Madness",
+            "style": "Berliner Weissbier",
+            "abv": "5.50% ABV",
+            "brewery": "J. Wakefield Brewing",
+            "rating": "4.58",
+            "reviews": "359"
+        },
+        {
+            "name": "Imperial Biscotti Break Bourbon Barrel Aged",
+            "style": "American Double / Imperial Stout",
+            "abv": "11.50% ABV",
+            "brewery": "Evil Twin Brewing",
+            "rating": "4.51",
+            "reviews": "1,615"
+        },
+        {
+            "name": "Trademark Dispute: Hazelnut",
+            "style": "American Double / Imperial Stout",
+            "abv": "Imperial Stout",
+            "brewery": "Cycle Brewing",
+            "rating": "4.58",
+            "reviews": "352"
+        },
+        {
+            "name": "Permanent Funeral",
+            "style": "American Double / Imperial IPA",
+            "abv": "10.50% ABV",
+            "brewery": "3 Floyds Brewing Co.",
+            "rating": "4.5",
+            "reviews": "2,903"
+        },
+        {
+            "name": "A Deal With The Devil",
+            "style": "American Barleywine",
+            "abv": "17.30% ABV",
+            "brewery": "Anchorage Brewing Company",
+            "rating": "4.52",
+            "reviews": "1,013"
+        },
+        {
+            "name": "Montmorency Vs Balaton",
+            "style": "American Wild Ale",
+            "abv": "6.70% ABV",
+            "brewery": "Jester King Brewery",
+            "rating": "4.53",
+            "reviews": "766"
+        },
+        {
+            "name": "Heavy Mettle",
+            "style": "American Double / Imperial IPA",
+            "abv": "9.30% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.52",
+            "reviews": "1,008"
+        },
+        {
+            "name": "Everett Porter",
+            "style": "American Porter",
+            "abv": "7.50% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.5",
+            "reviews": "2,699"
+        },
+        {
+            "name": "Congress Street IPA",
+            "style": "American IPA",
+            "abv": "7.20% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.5",
+            "reviews": "2,137"
+        },
+        {
+            "name": "Life Is Like...",
+            "style": "Milk / Sweet Stout",
+            "abv": "15.00% ABV",
+            "brewery": "Cigar City Brewing",
+            "rating": "4.53",
+            "reviews": "694"
+        },
+        {
+            "name": "Consecration",
+            "style": "American Wild Ale",
+            "abv": "10.00% ABV",
+            "brewery": "Russian River Brewing Company",
+            "rating": "4.49",
+            "reviews": "5,347"
+        },
+        {
+            "name": "Crusher",
+            "style": "American Double / Imperial IPA",
+            "abv": "9.00% ABV",
+            "brewery": "The Alchemist Brewery and Visitors Center",
+            "rating": "4.5",
+            "reviews": "1,938"
+        },
+        {
+            "name": "Great",
+            "style": "American Barleywine",
+            "abv": "14.00% ABV",
+            "brewery": "Alpine Beer Company",
+            "rating": "4.53",
+            "reviews": "679"
+        },
+        {
+            "name": "Susan",
+            "style": "American IPA",
+            "abv": "6.20% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.5",
+            "reviews": "1,911"
+        },
+        {
+            "name": "The Broken Truck",
+            "style": "American Wild Ale",
+            "abv": "5.00% ABV",
+            "brewery": "de Garde Brewing",
+            "rating": "4.63",
+            "reviews": "215"
+        },
+        {
+            "name": "Triple Shot",
+            "style": "American Double / Imperial Stout",
+            "abv": "9.00% ABV",
+            "brewery": "Tree House Brewing Company",
+            "rating": "4.6",
+            "reviews": "269"
+        },
+        {
+            "name": "AleSmith Speedway Stout - Vietnamese Coffee",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.00% ABV",
+            "brewery": "AleSmith Brewing Company",
+            "rating": "4.5",
+            "reviews": "1,821"
+        },
+        {
+            "name": "Cantillon Blåbær Lambik",
+            "style": "Lambic - Fruit",
+            "abv": "5.00% ABV",
+            "brewery": "Brasserie Cantillon",
+            "rating": "4.52",
+            "reviews": "804"
+        },
+        {
+            "name": "Double Dry Hopped Melcher Street",
+            "style": "American IPA",
+            "abv": "7.20% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.51",
+            "reviews": "1,080"
+        },
+        {
+            "name": "Society & Solitude #6",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.10% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.52",
+            "reviews": "798"
+        },
+        {
+            "name": "Sosus",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Toppling Goliath Brewing Company",
+            "rating": "4.5",
+            "reviews": "1,494"
+        },
+        {
+            "name": "Mocha Wednesday",
+            "style": "American Double / Imperial Stout",
+            "abv": "19.90% ABV",
+            "brewery": "The Bruery",
+            "rating": "4.5",
+            "reviews": "1,364"
+        },
+        {
+            "name": "Drie Fonteinen Framboos",
+            "style": "Lambic - Fruit",
+            "abv": "5.00% ABV",
+            "brewery": "Brouwerij 3 Fonteinen",
+            "rating": "4.52",
+            "reviews": "716"
+        },
+        {
+            "name": "Saison Bernice",
+            "style": "Saison / Farmhouse Ale",
+            "abv": "6.50% ABV",
+            "brewery": "Sante Adairius Rustic Ales",
+            "rating": "4.51",
+            "reviews": "922"
+        },
+        {
+            "name": "No Rules",
+            "style": "American Porter",
+            "abv": "15.00% ABV",
+            "brewery": "Perrin Brewery",
+            "rating": "4.5",
+            "reviews": "1,238"
+        },
+        {
+            "name": "Upper Case",
+            "style": "American Double / Imperial IPA",
+            "abv": "9.00% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.51",
+            "reviews": "871"
+        },
+        {
+            "name": "Cantillon Lou Pepe - Gueuze",
+            "style": "Gueuze",
+            "abv": "5.00% ABV",
+            "brewery": "Brasserie Cantillon",
+            "rating": "4.5",
+            "reviews": "1,177"
+        },
+        {
+            "name": "Bourbon Barrel Aged Dark Star: Coffee Edition",
+            "style": "American Double / Imperial Stout",
+            "abv": "13.10% ABV",
+            "brewery": "Fremont Brewing Company",
+            "rating": "4.52",
+            "reviews": "653"
+        },
+        {
+            "name": "Darkness",
+            "style": "Russian Imperial Stout",
+            "abv": "10.30% ABV",
+            "brewery": "Surly Brewing Company",
+            "rating": "4.48",
+            "reviews": "3,885"
+        },
+        {
+            "name": "Ten FIDY - Bourbon Barrel Aged",
+            "style": "Russian Imperial Stout",
+            "abv": "12.90% ABV",
+            "brewery": "Oskar Blues Grill & Brew",
+            "rating": "4.49",
+            "reviews": "1,519"
+        },
+        {
+            "name": "Drie Fonteinen Hommage",
+            "style": "Lambic - Fruit",
+            "abv": "6.00% ABV",
+            "brewery": "Brouwerij 3 Fonteinen",
+            "rating": "4.5",
+            "reviews": "913"
+        },
+        {
+            "name": "Trappist Westvleteren 8 (VIII)",
+            "style": "Dubbel",
+            "abv": "8.00% ABV",
+            "brewery": "Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)",
+            "rating": "4.48",
+            "reviews": "2,196"
+        },
+        {
+            "name": "The Abyss",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.20% ABV",
+            "brewery": "Deschutes Brewery",
+            "rating": "4.47",
+            "reviews": "7,177"
+        },
+        {
+            "name": "Drie Fonteinen Oude Geuze Golden Blend",
+            "style": "Gueuze",
+            "abv": "7.50% ABV",
+            "brewery": "Brouwerij 3 Fonteinen",
+            "rating": "4.49",
+            "reviews": "1,075"
+        },
+        {
+            "name": "Columbus Bodhi",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.50% ABV",
+            "brewery": "Columbus Brewing Company",
+            "rating": "4.48",
+            "reviews": "1,558"
+        },
+        {
+            "name": "Prairie Apple Brandy Noir",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.00% ABV",
+            "brewery": "Prairie Artisan Ales",
+            "rating": "4.48",
+            "reviews": "1,557"
+        },
+        {
+            "name": "Pipeworks / 4 Hands Emerald Grouper",
+            "style": "American Double / Imperial IPA",
+            "abv": "9.50% ABV",
+            "brewery": "Pipeworks Brewing Company",
+            "rating": "4.5",
+            "reviews": "764"
+        },
+        {
+            "name": "Double Dry Hopped Mylar Bags",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.50% ABV",
+            "brewery": "Other Half Brewing Co.",
+            "rating": "4.56",
+            "reviews": "304"
+        },
+        {
+            "name": "Genealogy Of Morals (Bourbon Barrel Aged)",
+            "style": "American Double / Imperial Stout",
+            "abv": "10.70% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.51",
+            "reviews": "601"
+        },
+        {
+            "name": "Ground State",
+            "style": "American Double / Imperial Stout",
+            "abv": "13.40% ABV",
+            "brewery": "Bottle Logic Brewing",
+            "rating": "4.52",
+            "reviews": "498"
+        },
+        {
+            "name": "Evil Twin Double Barrel Jesus",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.00% ABV",
+            "brewery": "Evil Twin Brewing",
+            "rating": "4.5",
+            "reviews": "734"
+        },
+        {
+            "name": "Stickee Monkee",
+            "style": "Quadrupel (Quad)",
+            "abv": "12.50% ABV",
+            "brewery": "Firestone Walker Brewing Co.",
+            "rating": "4.47",
+            "reviews": "2,613"
+        },
+        {
+            "name": "Abraxas",
+            "style": "American Double / Imperial Stout",
+            "abv": "10.00% ABV",
+            "brewery": "Perennial Artisan Ales",
+            "rating": "4.47",
+            "reviews": "2,579"
+        },
+        {
+            "name": "Trademark Dispute: Pallet 1",
+            "style": "American Double / Imperial Stout",
+            "abv": "10.40% ABV",
+            "brewery": "Cycle Brewing",
+            "rating": "4.54",
+            "reviews": "370"
+        },
+        {
+            "name": "Hopslam Ale",
+            "style": "American Double / Imperial IPA",
+            "abv": "10.00% ABV",
+            "brewery": "Bell's Brewery, Inc.",
+            "rating": "4.46",
+            "reviews": "13,104"
+        },
+        {
+            "name": "Fuzzy Baby Ducks IPA",
+            "style": "American IPA",
+            "abv": "6.20% ABV",
+            "brewery": "New England Brewing Co.",
+            "rating": "4.49",
+            "reviews": "938"
+        },
+        {
+            "name": "St. Bernardus Abt 12",
+            "style": "Quadrupel (Quad)",
+            "abv": "10.00% ABV",
+            "brewery": "Brouwerij St. Bernardus NV",
+            "rating": "4.46",
+            "reviews": "9,617"
+        },
+        {
+            "name": "Bad Boy",
+            "style": "American Double / Imperial IPA",
+            "abv": "9.00% ABV",
+            "brewery": "Alpine Beer Company",
+            "rating": "4.51",
+            "reviews": "557"
+        },
+        {
+            "name": "Barrel-Aged Silhouette",
+            "style": "Russian Imperial Stout",
+            "abv": "10.00% ABV",
+            "brewery": "Lift Bridge Brewery",
+            "rating": "4.53",
+            "reviews": "405"
+        },
+        {
+            "name": "Maple Bacon Coffee Porter",
+            "style": "American Porter",
+            "abv": "6.40% ABV",
+            "brewery": "Funky Buddha Brewery",
+            "rating": "4.47",
+            "reviews": "1,958"
+        },
+        {
+            "name": "Last Snow",
+            "style": "American Porter",
+            "abv": "6.40% ABV",
+            "brewery": "Funky Buddha Brewery",
+            "rating": "4.47",
+            "reviews": "1,932"
+        },
+        {
+            "name": "Cutting Tiles Double IPA (Galaxy)",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.50% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.53",
+            "reviews": "400"
+        },
+        {
+            "name": "Second Fiddle",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.20% ABV",
+            "brewery": "Fiddlehead Brewing Company",
+            "rating": "4.47",
+            "reviews": "1,907"
+        },
+        {
+            "name": "The Peach",
+            "style": "American Wild Ale",
+            "abv": "7.30% ABV",
+            "brewery": "de Garde Brewing",
+            "rating": "4.62",
+            "reviews": "182"
+        },
+        {
+            "name": "Barrel Aged Bomb!",
+            "style": "American Double / Imperial Stout",
+            "abv": "11.20% ABV",
+            "brewery": "Prairie Artisan Ales",
+            "rating": "4.48",
+            "reviews": "1,136"
+        },
+        {
+            "name": "Temptation",
+            "style": "American Wild Ale",
+            "abv": "7.50% ABV",
+            "brewery": "Russian River Brewing Company",
+            "rating": "4.46",
+            "reviews": "3,716"
+        },
+        {
+            "name": "Caffè Americano",
+            "style": "American Double / Imperial Stout",
+            "abv": "11.00% ABV",
+            "brewery": "Cigar City Brewing",
+            "rating": "4.48",
+            "reviews": "1,045"
+        },
+        {
+            "name": "Rodenbach Caractère Rouge",
+            "style": "Flanders Red Ale",
+            "abv": "7.00% ABV",
+            "brewery": "Brouwerij Rodenbach N.V.",
+            "rating": "4.47",
+            "reviews": "1,460"
+        },
+        {
+            "name": "Samuel Adams Utopias",
+            "style": "American Strong Ale",
+            "abv": "29.00% ABV",
+            "brewery": "Boston Beer Company (Samuel Adams)",
+            "rating": "4.46",
+            "reviews": "2,571"
+        },
+        {
+            "name": "Todd The Axe Man India Pale Ale",
+            "style": "American IPA",
+            "abv": "7.20% ABV",
+            "brewery": "Surly Brewing Company",
+            "rating": "4.46",
+            "reviews": "2,468"
+        },
+        {
+            "name": "Allagash Coolship Red",
+            "style": "Lambic - Fruit",
+            "abv": "5.70% ABV",
+            "brewery": "Allagash Brewing Company",
+            "rating": "4.5",
+            "reviews": "575"
+        },
+        {
+            "name": "Hop JuJu Imperial IPA",
+            "style": "American Double / Imperial IPA",
+            "abv": "9.00% ABV",
+            "brewery": "Fat Head's Brewery & Saloon",
+            "rating": "4.46",
+            "reviews": "2,138"
+        },
+        {
+            "name": "Fort Point Pale Ale",
+            "style": "American Pale Ale (APA)",
+            "abv": "6.60% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.46",
+            "reviews": "2,007"
+        },
+        {
+            "name": "Imperial Eclipse Stout - Elijah Craig (12 Year)",
+            "style": "American Double / Imperial Stout",
+            "abv": "11.90% ABV",
+            "brewery": "FiftyFifty Brewing Co.",
+            "rating": "4.46",
+            "reviews": "1,934"
+        },
+        {
+            "name": "Maman",
+            "style": "American Double / Imperial Stout",
+            "abv": "11.50% ABV",
+            "brewery": "Perennial Artisan Ales",
+            "rating": "4.57",
+            "reviews": "238"
+        },
+        {
+            "name": "Aurelian Lure",
+            "style": "American Wild Ale",
+            "abv": "5.40% ABV",
+            "brewery": "Jester King Brewery",
+            "rating": "4.49",
+            "reviews": "655"
+        },
+        {
+            "name": "Sang Noir",
+            "style": "American Wild Ale",
+            "abv": "9.30% ABV",
+            "brewery": "Cascade Brewing / Raccoon Lodge & Brewpub",
+            "rating": "4.46",
+            "reviews": "1,736"
+        },
+        {
+            "name": "Juicy",
+            "style": "Saison / Farmhouse Ale",
+            "abv": "7.40% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.49",
+            "reviews": "622"
+        },
+        {
+            "name": "Cantillon Gueuze 100% Lambic",
+            "style": "Gueuze",
+            "abv": "5.00% ABV",
+            "brewery": "Brasserie Cantillon",
+            "rating": "4.45",
+            "reviews": "3,752"
+        },
+        {
+            "name": "BDCS",
+            "style": "American Double / Imperial Stout",
+            "abv": "10.20% ABV",
+            "brewery": "Ozark Beer Co.",
+            "rating": "4.52",
+            "reviews": "381"
+        },
+        {
+            "name": "Vicinity",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.46",
+            "reviews": "1,563"
+        },
+        {
+            "name": "Bourbon Barrel Black Maple",
+            "style": "American Porter",
+            "abv": "11.00% ABV",
+            "brewery": "Jackie O's Pub & Brewery",
+            "rating": "4.47",
+            "reviews": "1,009"
+        },
+        {
+            "name": "Adam From The Wood",
+            "style": "Old Ale",
+            "abv": "12.00% ABV",
+            "brewery": "Hair of the Dog Brewing Company / Brewery and Tasting Room",
+            "rating": "4.47",
+            "reviews": "983"
+        },
+        {
+            "name": "Bourbon Barrel Oro Negro",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.10% ABV",
+            "brewery": "Jackie O's Pub & Brewery",
+            "rating": "4.51",
+            "reviews": "417"
+        },
+        {
+            "name": "Dragon Fruit Passion Fruit Berliner",
+            "style": "Berliner Weissbier",
+            "abv": "3.50% ABV",
+            "brewery": "J. Wakefield Brewing",
+            "rating": "4.52",
+            "reviews": "365"
+        },
+        {
+            "name": "Bourbon Barrel Champion Ground",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.00% ABV",
+            "brewery": "Jackie O's Pub & Brewery",
+            "rating": "4.49",
+            "reviews": "567"
+        },
+        {
+            "name": "Double Stack",
+            "style": "American Double / Imperial Stout",
+            "abv": "10.00% ABV",
+            "brewery": "Great Notion Brewing",
+            "rating": "4.53",
+            "reviews": "321"
+        },
+        {
+            "name": "Tweak",
+            "style": "American Double / Imperial Stout",
+            "abv": "16.00% ABV",
+            "brewery": "Avery Brewing Company",
+            "rating": "4.45",
+            "reviews": "2,386"
+        },
+        {
+            "name": "Ghost In The Machine",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Parish Brewing Company",
+            "rating": "4.48",
+            "reviews": "677"
+        },
+        {
+            "name": "Birth Of Tragedy",
+            "style": "American Porter",
+            "abv": "9.00% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.46",
+            "reviews": "1,229"
+        },
+        {
+            "name": "Fyodor's Classic: Imperial Russian Stout - Bourbon Barrel Aged",
+            "style": "Russian Imperial Stout",
+            "abv": "13.00% ABV",
+            "brewery": "Stone Brewing",
+            "rating": "4.46",
+            "reviews": "1,199"
+        },
+        {
+            "name": "Mother Of All Storms",
+            "style": "English Barleywine",
+            "abv": "14.00% ABV",
+            "brewery": "Pelican Pub & Brewery",
+            "rating": "4.45",
+            "reviews": "1,996"
+        },
+        {
+            "name": "Leche Borracho",
+            "style": "American Double / Imperial Stout",
+            "abv": "11.00% ABV",
+            "brewery": "Bottle Logic Brewing",
+            "rating": "4.52",
+            "reviews": "342"
+        },
+        {
+            "name": "Nelson",
+            "style": "American IPA",
+            "abv": "7.00% ABV",
+            "brewery": "Alpine Beer Company",
+            "rating": "4.44",
+            "reviews": "4,110"
+        },
+        {
+            "name": "Damon (Bourbon Barrel Aged)",
+            "style": "Russian Imperial Stout",
+            "abv": "10.50% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.47",
+            "reviews": "720"
+        },
+        {
+            "name": "Double Dry Hopped Sleeper Street",
+            "style": "American IPA",
+            "abv": "7.20% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.46",
+            "reviews": "951"
+        },
+        {
+            "name": "Peche 'n Brett",
+            "style": "Saison / Farmhouse Ale",
+            "abv": "10.00% ABV",
+            "brewery": "Logsdon Farmhouse Ales",
+            "rating": "4.45",
+            "reviews": "1,362"
+        },
+        {
+            "name": "Barrel-Aged Sump Coffee Stout",
+            "style": "American Double / Imperial Stout",
+            "abv": "10.50% ABV",
+            "brewery": "Perennial Artisan Ales",
+            "rating": "4.49",
+            "reviews": "469"
+        },
+        {
+            "name": "Sure Bet",
+            "style": "American Double / Imperial IPA",
+            "abv": "9.50% ABV",
+            "brewery": "Pipeworks Brewing Company",
+            "rating": "4.48",
+            "reviews": "552"
+        },
+        {
+            "name": "Double Dry Hopped All Citra Everything",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.50% ABV",
+            "brewery": "Other Half Brewing Co.",
+            "rating": "4.53",
+            "reviews": "279"
+        },
+        {
+            "name": "Art",
+            "style": "Saison / Farmhouse Ale",
+            "abv": "6.50% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.49",
+            "reviews": "448"
+        },
+        {
+            "name": "Scaled Up",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.46",
+            "reviews": "817"
+        },
+        {
+            "name": "Epiphany",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Foundation Brewing Company",
+            "rating": "4.45",
+            "reviews": "1,013"
+        },
+        {
+            "name": "Double Nelson",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.00% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.56",
+            "reviews": "207"
+        },
+        {
+            "name": "La Fosse",
+            "style": "American Wild Ale",
+            "abv": "8.00% ABV",
+            "brewery": "Side Project Brewing",
+            "rating": "4.52",
+            "reviews": "289"
+        },
+        {
+            "name": "Edward",
+            "style": "American Pale Ale (APA)",
+            "abv": "5.20% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.43",
+            "reviews": "2,717"
+        },
+        {
+            "name": "Mastermind",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.10% ABV",
+            "brewery": "Fiddlehead Brewing Company",
+            "rating": "4.44",
+            "reviews": "1,373"
+        },
+        {
+            "name": "Stone Enjoy By IPA",
+            "style": "American Double / Imperial IPA",
+            "abv": "9.40% ABV",
+            "brewery": "Stone Brewing",
+            "rating": "4.42",
+            "reviews": "10,855"
+        },
+        {
+            "name": "Clare's Thirsty Ale",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.50% ABV",
+            "brewery": "Haymarket Beer Co. Pub & Brewery",
+            "rating": "4.54",
+            "reviews": "234"
+        },
+        {
+            "name": "Sante Adairius / Triple Rock Cellarman Barrel Aged Saison",
+            "style": "Saison / Farmhouse Ale",
+            "abv": "6.50% ABV",
+            "brewery": "Sante Adairius Rustic Ales",
+            "rating": "4.48",
+            "reviews": "455"
+        },
+        {
+            "name": "Coffee Abraxas",
+            "style": "American Double / Imperial Stout",
+            "abv": "10.00% ABV",
+            "brewery": "Perennial Artisan Ales",
+            "rating": "4.47",
+            "reviews": "505"
+        },
+        {
+            "name": "Madagascar",
+            "style": "Milk / Sweet Stout",
+            "abv": "9.30% ABV",
+            "brewery": "4 Hands Brewing Co.",
+            "rating": "4.45",
+            "reviews": "768"
+        },
+        {
+            "name": "Hunahpu's Imperial Stout - Bourbon Barrel Aged",
+            "style": "American Double / Imperial Stout",
+            "abv": "14.60% ABV",
+            "brewery": "Cigar City Brewing",
+            "rating": "4.53",
+            "reviews": "243"
+        },
+        {
+            "name": "Bourbon Barrel Aged Dark Star",
+            "style": "Oatmeal Stout",
+            "abv": "14.00% ABV",
+            "brewery": "Fremont Brewing Company",
+            "rating": "4.46",
+            "reviews": "581"
+        },
+        {
+            "name": "Affogato",
+            "style": "American Double / Imperial Stout",
+            "abv": "13.30% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.53",
+            "reviews": "239"
+        },
+        {
+            "name": "Locust Reign",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.50% ABV",
+            "brewery": "New England Brewing Co.",
+            "rating": "4.5",
+            "reviews": "319"
+        },
+        {
+            "name": "Hop Venom Double IPA",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.90% ABV",
+            "brewery": "Boneyard Beer Company",
+            "rating": "4.44",
+            "reviews": "962"
+        },
+        {
+            "name": "Trademark Dispute: &+",
+            "style": "American Double / Imperial Stout",
+            "abv": "10.50% ABV",
+            "brewery": "Cycle Brewing",
+            "rating": "4.49",
+            "reviews": "357"
+        },
+        {
+            "name": "Flora",
+            "style": "Saison / Farmhouse Ale",
+            "abv": "4.80% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.45",
+            "reviews": "715"
+        },
+        {
+            "name": "Uncle Jacob's Stout",
+            "style": "American Double / Imperial Stout",
+            "abv": "14.90% ABV",
+            "brewery": "Avery Brewing Company",
+            "rating": "4.42",
+            "reviews": "2,777"
+        },
+        {
+            "name": "Dialed In (w/ Sauvignon Blanc Juice)",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.50% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.45",
+            "reviews": "704"
+        },
+        {
+            "name": "Matt",
+            "style": "American Strong Ale",
+            "abv": "11.50% ABV",
+            "brewery": "Hair of the Dog Brewing Company / Brewery and Tasting Room",
+            "rating": "4.44",
+            "reviews": "866"
+        },
+        {
+            "name": "Weihenstephaner Hefeweissbier",
+            "style": "Hefeweizen",
+            "abv": "5.40% ABV",
+            "brewery": "Bayerische Staatsbrauerei Weihenstephan",
+            "rating": "4.41",
+            "reviews": "8,449"
+        },
+        {
+            "name": "Oude Tart With Sour Cherries",
+            "style": "American Wild Ale",
+            "abv": "7.50% ABV",
+            "brewery": "The Bruery",
+            "rating": "4.43",
+            "reviews": "1,151"
+        },
+        {
+            "name": "Péché Mortel",
+            "style": "American Double / Imperial Stout",
+            "abv": "9.50% ABV",
+            "brewery": "Brasserie Dieu du Ciel!",
+            "rating": "4.41",
+            "reviews": "5,165"
+        },
+        {
+            "name": "Citraquench'l",
+            "style": "American IPA",
+            "abv": "6.70% ABV",
+            "brewery": "Heist Brewery",
+            "rating": "4.58",
+            "reviews": "161"
+        },
+        {
+            "name": "Framboise For A Cure",
+            "style": "American Wild Ale",
+            "abv": "6.50% ABV",
+            "brewery": "Russian River Brewing Company",
+            "rating": "4.43",
+            "reviews": "1,040"
+        },
+        {
+            "name": "Citra Pale Ale",
+            "style": "American Pale Ale (APA)",
+            "abv": "5.40% ABV",
+            "brewery": "Hill Farmstead Brewery",
+            "rating": "4.43",
+            "reviews": "997"
+        },
+        {
+            "name": "Sump Coffee Stout",
+            "style": "American Double / Imperial Stout",
+            "abv": "10.50% ABV",
+            "brewery": "Perennial Artisan Ales",
+            "rating": "4.42",
+            "reviews": "1,522"
+        },
+        {
+            "name": "Collaboration Series: Rue D'Floyd",
+            "style": "American Porter",
+            "abv": "14.40% ABV",
+            "brewery": "The Bruery",
+            "rating": "4.44",
+            "reviews": "701"
+        },
+        {
+            "name": "Cantillon Vigneronne",
+            "style": "Lambic - Fruit",
+            "abv": "5.00% ABV",
+            "brewery": "Brasserie Cantillon",
+            "rating": "4.42",
+            "reviews": "1,384"
+        },
+        {
+            "name": "Born Yesterday Pale Ale",
+            "style": "American Pale Ale (APA)",
+            "abv": "7.20% ABV",
+            "brewery": "Lagunitas Brewing Company",
+            "rating": "4.41",
+            "reviews": "2,522"
+        },
+        {
+            "name": "Exponential Hoppiness",
+            "style": "American Double / Imperial IPA",
+            "abv": "11.00% ABV",
+            "brewery": "Alpine Beer Company",
+            "rating": "4.42",
+            "reviews": "1,314"
+        },
+        {
+            "name": "Leon",
+            "style": "English Barleywine",
+            "abv": "13.00% ABV",
+            "brewery": "Cigar City Brewing",
+            "rating": "4.45",
+            "reviews": "532"
+        },
+        {
+            "name": "Péché Mortel En Fût De Bourbon Américain",
+            "style": "American Double / Imperial Stout",
+            "abv": "9.50% ABV",
+            "brewery": "Brasserie Dieu du Ciel!",
+            "rating": "4.45",
+            "reviews": "525"
+        },
+        {
+            "name": "Trademark Dispute: Nooner 10",
+            "style": "American Double / Imperial Stout",
+            "abv": "12.00% ABV",
+            "brewery": "Cycle Brewing",
+            "rating": "4.48",
+            "reviews": "334"
+        },
+        {
+            "name": "Oro Negro",
+            "style": "American Double / Imperial Stout",
+            "abv": "10.00% ABV",
+            "brewery": "Jackie O's Pub & Brewery",
+            "rating": "4.43",
+            "reviews": "824"
+        },
+        {
+            "name": "Space Trace",
+            "style": "American Double / Imperial Stout",
+            "abv": "11.10% ABV",
+            "brewery": "Bottle Logic Brewing",
+            "rating": "4.51",
+            "reviews": "245"
+        },
+        {
+            "name": "Melange No. 3",
+            "style": "American Strong Ale",
+            "abv": "16.30% ABV",
+            "brewery": "The Bruery",
+            "rating": "4.41",
+            "reviews": "1,920"
+        },
+        {
+            "name": "Darkstar November",
+            "style": "Russian Imperial Stout",
+            "abv": "13.70% ABV",
+            "brewery": "Bottle Logic Brewing",
+            "rating": "4.46",
+            "reviews": "432"
+        },
+        {
+            "name": "Dreadnaught IPA",
+            "style": "American Double / Imperial IPA",
+            "abv": "9.50% ABV",
+            "brewery": "3 Floyds Brewing Co.",
+            "rating": "4.4",
+            "reviews": "6,047"
+        },
+        {
+            "name": "B-Bomb (Bourbon Abominable Winter Ale)",
+            "style": "American Strong Ale",
+            "abv": "14.00% ABV",
+            "brewery": "Fremont Brewing Company",
+            "rating": "4.42",
+            "reviews": "1,129"
+        },
+        {
+            "name": "Yellow Rose",
+            "style": "American IPA",
+            "abv": "6.80% ABV",
+            "brewery": "The Lone Pint Brewery",
+            "rating": "4.41",
+            "reviews": "1,771"
+        },
+        {
+            "name": "Allagash Coolship Resurgam",
+            "style": "Gueuze",
+            "abv": "6.00% ABV",
+            "brewery": "Allagash Brewing Company",
+            "rating": "4.43",
+            "reviews": "777"
+        },
+        {
+            "name": "Double Dry Hopped Scaled",
+            "style": "American IPA",
+            "abv": "7.00% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.43",
+            "reviews": "769"
+        },
+        {
+            "name": "Softly Spoken Magic Spells",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.60% ABV",
+            "brewery": "SingleCut Beersmiths",
+            "rating": "4.43",
+            "reviews": "768"
+        },
+        {
+            "name": "The Streets",
+            "style": "American Double / Imperial IPA",
+            "abv": "10.00% ABV",
+            "brewery": "Trillium Brewing Company",
+            "rating": "4.47",
+            "reviews": "349"
+        },
+        {
+            "name": "Mexican Cake",
+            "style": "American Double / Imperial Stout",
+            "abv": "10.50% ABV",
+            "brewery": "Westbrook Brewing Co.",
+            "rating": "4.4",
+            "reviews": "2,828"
+        },
+        {
+            "name": "Drie Fonteinen Oude Geuze",
+            "style": "Gueuze",
+            "abv": "6.00% ABV",
+            "brewery": "Brouwerij 3 Fonteinen",
+            "rating": "4.4",
+            "reviews": "2,796"
+        },
+        {
+            "name": "Trickery",
+            "style": "Milk / Sweet Stout",
+            "abv": "13.50% ABV",
+            "brewery": "Hardywood Park Craft Brewery",
+            "rating": "4.45",
+            "reviews": "456"
+        },
+        {
+            "name": "Master Of Karate",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.40% ABV",
+            "brewery": "Aslin Beer Company",
+            "rating": "4.48",
+            "reviews": "302"
+        },
+        {
+            "name": "Citra Showers",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.80% ABV",
+            "brewery": "Noble Ale Works",
+            "rating": "4.44",
+            "reviews": "534"
+        },
+        {
+            "name": "Sculpin IPA",
+            "style": "American IPA",
+            "abv": "7.00% ABV",
+            "brewery": "Ballast Point Brewing Company",
+            "rating": "4.39",
+            "reviews": "14,004"
+        },
+        {
+            "name": "Coriolis",
+            "style": "American Double / Imperial IPA",
+            "abv": "8.20% ABV",
+            "brewery": "New England Brewing Co.",
+            "rating": "4.43",
+            "reviews": "653"
+        },
+        {
+            "name": "Kentucky Christmas Morning",
+            "style": "Milk / Sweet Stout",
+            "abv": "10.60% ABV",
+            "brewery": "Hardywood Park Craft Brewery",
+            "rating": "4.48",
+            "reviews": "297"
+        },
+        {
+            "name": "Project Dank",
+            "style": "American IPA",
+            "abv": "7.50% ABV",
+            "brewery": "La Cumbre Brewing Co.",
+            "rating": "4.42",
+            "reviews": "839"
+        },
+        {
+            "name": "Victory At Sea Coffee Vanilla Imperial Porter",
+            "style": "American Porter",
+            "abv": "10.00% ABV",
+            "brewery": "Ballast Point Brewing Company",
+            "rating": "4.39",
+            "reviews": "6,929"
+        }
+    ]
+}
