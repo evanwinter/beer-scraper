@@ -1,6 +1,6 @@
 
 
-Gets information about [BeerAdvocate]('https://beeradvocate.com')'s top 250 beers.
+Gets information about [BeerAdvocate's](https://www.beeradvocate.com/lists/top/) top 250 beers.
 
 `npm install`
 
